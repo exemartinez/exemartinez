@@ -1,9 +1,9 @@
 # Ezequiel H. Martinez
 ### Data & AI Systems Architect · Buenos Aires, Argentina
 
-I build production-grade data and AI infrastructure — from lakehouse architecture and orchestrated pipelines to LLM-powered agents and RAG systems.
-
-I work at the intersection of architecture and implementation: I own the technical direction **and** write the code.
+Data & AI infrastructure, from lakehouse architecture and orchestrated 
+pipelines to LLM-powered agents and RAG systems — designed and built 
+end-to-end, from technical direction to production code.
 
 ---
 
