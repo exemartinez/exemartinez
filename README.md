@@ -1,9 +1,9 @@
 # Ezequiel H. Martinez
 ### Data & AI Systems Architect · Buenos Aires, Argentina
 
-Data & AI systems architecture — from lakehouse design and orchestrated 
-pipelines to LLM-powered agents and RAG — built end-to-end by someone 
-who also does the data science behind them.
+From lakehouse design and orchestrated pipelines to LLM-powered agents 
+and RAG — built end-to-end by someone who also does the data science 
+behind them.
 
 ---
 
