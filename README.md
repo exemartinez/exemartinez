@@ -32,9 +32,9 @@ Infra:      Docker · Kubernetes · Terraform · CI/CD
 Most of my production work lives in private repositories under NDA — the public repos here are personal experiments, tooling, and research artifacts.
 
 Current public projects include:
-- a job-search intelligence system ([opensignal-job-intel]([https://github.com/exemartinez/opensignal](https://github.com/exemartinez/opensignal-job-intel))).
-- a PDF/EPUB chapter segmentation tool for AI workflows ([opensignal-job-intel]([https://github.com/exemartinez/opensignal](https://github.com/exemartinez/opensignal-job-intel)).
-- a structured data extraction tool for Argentine bank statements ([bookcast-chapter-forge](https://github.com/exemartinez/simple_santander_rio_parser](https://github.com/exemartinez/bookcast-chapter-forge)).
+- a job-search intelligence system [opensignal-job-intel]([https://github.com/exemartinez/opensignal](https://github.com/exemartinez/opensignal-job-intel))).
+- a PDF/EPUB chapter segmentation tool for AI workflows [bookcast-chapter-forge](https://github.com/exemartinez/bookcast-chapter-forge).
+- a structured data extraction tool for Argentine bank statements [simple_santander_rio_parser](https://github.com/exemartinez/simple_santander_rio_parser).
 - a ML research from my Master’s in Data Science at ITBA([gravitational_waves_classifiers](https://github.com/exemartinez/gravitational_waves_classifiers)).
 
 ---
